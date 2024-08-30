@@ -28,36 +28,72 @@ Constraints:
 
 Considering all of these factors, I designed these three sketches:
 
-(Sketch 1,2,3)
+<p align="center">
+  <img src="Photos/Design_1.png" alt="Design 1" width="500" >
+</p>
 
-Design 1: Flexible base that can move like a "worm"
+<p align="center">
+  Design 1: Flexible base that can move like a "worm"
+</p>
 
-Design 2: A rod that moves in an organic path
+<p align="center">
+  <img src="Photos/Design_2.png" alt="Design 2" width="500" >
+</p>
 
-Design 3: Simple up and down movements
+<p align="center">
+  Design 2: A rod that moves in an organic path
+</p>
+
+<p align="center">
+  <img src="Photos/Design_3.png" alt="Design 3" width="500" >
+</p>
+
+<p align="center">
+  Design 3: Simple up and down movements
+</p>
 
 At this point, the sketches didn't go into depth and the mechanism weren't thoroughly thought out. However, I was very content with the idea of Design 1 as this one met ALL of my criteria and seemed to be fairly easy to automate.
 
 ### 2. Fixating on Design 1
 
-At this point, I was ready to explore how to get Design 1 to work. I though of how I could ensure the base was flexible such as cutting ridges in a long rectangle, connecting various panels with string, or even with a ball and sockets. These sketches can be seen below:
+I was ready to explore how to get Design 1 to work. I though of how I could ensure the base was flexible such as cutting ridges in a long rectangle, connecting various panels with string, or even with a ball and sockets. These sketches can be seen below:
 
-(Sketch 1,2,3)
+<p align="center">
+  <img src="Photos/Design_1.1.png" alt="Design 1.1" width="500" >
+</p>
 
-Design 1.1: Ridges in rectangle
+<p align="center">
+    Design 1.1: Ridges in rectangle
+</p>
 
-Design 1.2: Connected by string
+<p align="center">
+  <img src="Photos/Design_1.2.png" alt="Design 1.2" width="500" >
+</p>
 
-Design 1.3: Connected by ball and socket
+<p align="center">
+    Design 1.2: Connected by string
+</p>
+
+<p align="center">
+  <img src="Photos/Design_1.3.png" alt="Design 1.3" width="500" >
+</p>
+
+<p align="center">
+    Design 1.3: Connected by ball and socket
+</p>
+
 
 I Decided that Design 1.1 would be the most interesting to work with... as well as the best for manufacturing. I planned on autoamting this movement by using a motor, a few gears, and spinning "Tear drop-shaped" pieces to move the base in a sinusoidal wave. With this in mind, I created a CAD of this part:
 
-(Photo of CAD)
+<p align="center">
+   <img src="Photos/Design_1.1_CAD.png" alt="Design 1.1 CAD" width="500" >
+</p>
 
-CAD for a flexible base using ridges in a rectancle (Design 1.1)
+<p align="center">
+   CAD for a flexible base using ridges in a rectancle (Design 1.1)
+</p>
 
 Although it seemed plaussible to continue with design, I eventually decided that it was very difficult to get this base to be flexibe on such a small scale. Since I wanted this to be an appropriate size for a bowl, I couldn't think of a way to achieve the amount of flexibility I desired. Eventually, I decided to scrap this idea.
-
 
 ### Moving onto Design 3
 
@@ -65,18 +101,32 @@ As I scrapped Design 1, I began to think more about what exactly would mimick a 
 
 Design 3 was fairly straightforward: It would be a rectangular bowl with various "tiles". These tiles would move up and down, movement facilitated by a mechanism similar to that of Design 1. Using a simple DC motor, some gears, a long shaft, and "Tear drop-shaped" pieces, the tiles would move up and down to mimick bugs in the bowl. A clear sketch of this can be seen below:
 
-(Sketch of EG of one ROW)
+<p align="center">
+   <img src="Photos/Design_3_1Row.png" alt="Design 3 Eg" width="500" >
+</p>
 
-Example of how the movement would be facilitated for one of the rows of tiles.
+<p align="center">
+   Example of how the movement would be facilitated for one of the rows of tiles.
+</p>
 
-(Sketch of all three)
+<p align="center">
+   <img src="Photos/Design_3_3Rows.png" alt="Design 3 Eg 2" width="500" >
+</p>
 
-Example of how the movement would be facilitated with various shafts
+<p align="center">
+   Example of how the movement would be facilitated with various shafts
+</p>
+
 Upon furhter consideration, I decided that a 2x4 set of tiles would be the most optimal. An example layout for this could be seen below:
 
-(Sketch of layout)
+<p align="center">
+   <img src="Photos/Layout.png" alt="Layout Eg" width="500" >
+</p>
 
-Sketch of potential layout of tiles
+<p align="center">
+   Sketch of potential layout of tiles
+</p>
+
 
 ### Begninning the CAD work
 
