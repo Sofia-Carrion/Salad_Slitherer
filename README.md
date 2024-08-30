@@ -25,7 +25,7 @@ ____________________
 The design process encompassed many sketches. A full PDF of my sketches can be found [here](Salad_Slitherer_Sketches.pdf)
 
 ## CAD Models:
-All SolidWork CAD models were created using SolidWorks 2023. All files for the assembly can be found in the repository.
+All SolidWork CAD models were created using SolidWorks 2023. All files for the assembly will be found in the repository as they get completed.
 
 ## External Help (Parts that will be put to use):
 
