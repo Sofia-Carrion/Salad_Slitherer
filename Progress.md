@@ -127,14 +127,26 @@ Upon furhter consideration, I decided that a 2x4 set of tiles would be the most 
    Sketch of potential layout of tiles
 </p>
 
-
 ### Begninning the CAD work
 
 As I had the design down, I began to work on a CAD for design 3. I created each individual part and assembled it into a SolidWorks assembly:
 
-(Assmebly PIC)
+<p align="center">
+   <img src="Photos/Assembly_top.png" alt="CAD Assembly" width="500" >
+</p>
 
-SolidWorks Assmebly of Design 3
+<p align="center">
+   CAD of Assembly: showcases case with one row of tiles in place
+</p>
+
+<p align="center">
+   <img src="Photos/Assembly_Slice.png" alt="CAD Assembly Sliced" width="500" >
+</p>
+
+<p align="center">
+   CAD of Assembly: showcases the mechanism used inside
+</p>
+
 
 ### Prototyping:
 
@@ -143,6 +155,16 @@ SolidWorks Assmebly of Design 3
 ### Electronics:
 
 (WIP)
+
+Some sketches have been created to showcase how I (hope) to attach the electronics within the product. This design can be seen below:
+
+<p align="center">
+   <img src="Photos/Electronics_Setup.png" alt="Electronics Setup" width="500" >
+</p>
+
+<p align="center">
+   Potential layout for where the electronics will be placed (battery, motor (empty rectangle), gears (brown rectangles), switch)
+</p>
 
 ## Notes:
 This project is still a WIP. Prototyping will be done ASAP. Stay tuned!
