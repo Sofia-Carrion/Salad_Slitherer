@@ -22,7 +22,7 @@ Work to be complete:
 
 ____________________
 
-The design process encompassed many sketches. A full PDF of my sketches can be found [here](WCPP_Design.pdf)
+The design process encompassed many sketches. A full PDF of my sketches can be found [here](Salad_Slitherer_Sketches.pdf)
 
 ## CAD Models:
 All SolidWork CAD models were created using SolidWorks 2023. All files for the assembly can be found in the repository.
