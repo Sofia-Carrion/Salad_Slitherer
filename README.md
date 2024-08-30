@@ -11,7 +11,7 @@ The Salad-Slitherer is a unique salad bowl created for lizards that aren’t fon
 _________________
 
  Design: 
- - The design process for this product was lengthy. It underwent various changes. However, nearly all of the design process has been complete excluding any future design changes that may have to be made throughout prototyping process.
+ - The product's design process was extensive, involving multiple iterations. Almost all aspects of the design are finalized, except for potential adjustments during the prototyping phase.
 
 CAD:
 - CAD work for the product has begun but is susceptible to change as the electronic portion is put together.
