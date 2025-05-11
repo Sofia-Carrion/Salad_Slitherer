@@ -16,9 +16,12 @@ _________________
 CAD:
 - CAD work for the product has begun but is susceptible to change as the electronic portion is put together.
 
-Work to be complete:
-- 3D printing and protoyping
-- Setting up electronics
+Prototyping:
+- 3D printed all parts and assembled together
+- Set up electronics to run the bowl
+
+Work left to do:
+- Create a compact design to hide the electronic components
 
 ____________________
 
