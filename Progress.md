@@ -147,16 +147,23 @@ As I had the design down, I began to work on a CAD for design 3. I created each 
    CAD of Assembly: showcases the mechanism used inside
 </p>
 
+At this point, I 3D printed the parts that I had and attempted to assemble the machine to see how it would function. However, I decided there were some minor changes I wanted to make to help it run better. I added supports to hold the tile in place as it moves up/down so that it remains upright. Additionally, I added a gear train to be able to turn both rods at once and shortened the height of the bowl. Below are images of the updated CAD.
+
 
 ### Prototyping:
 
-(WIP)
+As mentioned above, I first printed my initial CAD design to see how it would function. I printed half of the design to save filament as I tested it. Once I realized there were a few alterations to make, I updated the SolidWorks model and reprinted it. Both prints can be seen below.
+
+...
+
+With my second print running smoothly when assembled, I decided to print a full version of it with the gear train as well. This prototype (below) was then used to test the electronics that are mentioned in the next section.
+
 
 ### Electronics:
 
-(WIP)
+To run this product, I decided to hook up a scrap 12V motor I found at home. This motor came from another appliance so I stripped the wires and hooked them up to a motor speed controller and a 12V battery I also found lying around (see images below). This let me run the motor at a slower speed than initially intended. However, the motor still runs at quite a high RPM so I might consider adding some resistors to test whether I would prefer a slower speed or not. For the final product I will likely purchase a lower volt battery to have a smoother run.
 
-Some sketches have been created to showcase how I (hope) to attach the electronics within the product. This design can be seen below:
+Some sketches have been created to showcase how I (hope) to attach the electronics within the final product. This design can be seen below:
 
 <p align="center">
    <img src="Photos/Electronics_Setup.png" alt="Electronics Setup" width="500" >
@@ -167,5 +174,5 @@ Some sketches have been created to showcase how I (hope) to attach the electroni
 </p>
 
 ## Notes:
-This project is still a WIP. Prototyping will be done ASAP. Stay tuned!
+This project is still a WIP. Although prototyping is done and the project goals have been met, I would like to try and make the design even better! Stay tuned!
 
