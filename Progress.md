@@ -154,11 +154,31 @@ At this point, I 3D printed the parts that I had and attempted to assemble the m
 
 As mentioned above, I first printed my initial CAD design to see how it would function. I printed half of the design to save filament as I tested it. Once I realized there were a few alterations to make, I updated the SolidWorks model and reprinted it. Both prints can be seen below.
 
-...
+<p align="center">
+   <img src="Photos/SS_Print_Prot.jpg" alt="CAD Assembly Sliced" width="500" >
+</p>
+
+<p align="center">
+   CAD of Assembly: showcases the mechanism used inside
+</p>
 
 With my second print running smoothly when assembled, I decided to print a full version of it with the gear train as well. This prototype (below) was then used to test the electronics that are mentioned in the next section.
 
+<p align="center">
+   <img src="Photos/SS_Print_Top.jpg" alt="CAD Assembly Sliced" width="500" >
+</p>
 
+<p align="center">
+   CAD of Assembly: showcases the mechanism used inside
+</p>
+
+<p align="center">
+   <img src="Photos/SS_Print_Top_Motor.jpg" alt="CAD Assembly Sliced" width="500" >
+</p>
+
+<p align="center">
+   CAD of Assembly: showcases the mechanism used inside
+</p>
 ### Electronics:
 
 To run this product, I decided to hook up a scrap 12V motor I found at home. This motor came from another appliance so I stripped the wires and hooked them up to a motor speed controller and a 12V battery I also found lying around (see images below). This let me run the motor at a slower speed than initially intended. However, the motor still runs at quite a high RPM so I might consider adding some resistors to test whether I would prefer a slower speed or not. For the final product I will likely purchase a lower volt battery to have a smoother run.
